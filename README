@@ -1,0 +1,25 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1832
+
+*Update:* A more sophisticated syntax file for Asciidoc is included since release 8.2. Check http://www.methods.co.nz/asciidoc/ f or details.
+
+This is a syntax file for Asciidoc markup. You'll get info about Asciidoc on the Asciidoc Homepage: http://www.methods.co.nz/asciidoc/.
+
+currently the following elements are supported:
+
+ * titles
+ * rules
+ * bullets
+ * TODO, FIXME, ToDo, FixMe
+ * references
+ * labels
+ * footnotes
+ * links
+ * comments
+ * meta info
+
+Thanks to Dag for several enhancements!
+
+Feel free to submit patches, comments, suggestions...to felix at obenhuber dot de and don't forget to cc asciidoc-discuss at metaperl dot com.
+
+
+
